@@ -1,0 +1,8 @@
+Minor-Priority:
+- '**/*.yml'
+
+Low-Priority:
+- any: ['README.md', '**/*.html', '!Code/index.html']
+
+Medium-Priority:
+- 'Code/index.html'
